@@ -1,0 +1,7 @@
+schemaVersion: 2.2.2
+metadata:
+  name: my_cpp
+  version: 1.0.0
+parent:  
+  uri: https://raw.githubusercontent.com/ocp-devspaces-gamification/ds-bonus-cpp/refs/heads/main/devfile/devfile.yaml
+
